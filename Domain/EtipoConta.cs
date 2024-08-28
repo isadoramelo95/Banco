@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public enum EtipoConta
-    { 
+    public enum ETipoConta
+    {
         Corrente = 1,
         Poupanca = 2,
         Investimento = 3
